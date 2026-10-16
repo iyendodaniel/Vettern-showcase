@@ -2,7 +2,7 @@
 
 **Talent validation, not a job board.** Vettern replaces the CV with proof: a 5-stage, AI-assisted assessment pipeline that helps Nigerian companies discover and vet early-career talent.
 
-🔗 **Live:** [internconnect.pro](https://internconnect.pro) *(swap to vettern.pro once it's live)*
+🔗 **Live:** [internconnect.pro](https://internconnect.pro)
 👤 **My role:** Solo developer (backend, frontend, AI integration)
 📍 **Status:** Live in Nigeria, actively shipping
 🔒 **Source code:** Private. Happy to walk through it on a call.
