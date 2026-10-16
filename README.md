@@ -41,17 +41,5 @@ Stage 3 is the one I'm proudest of. "Why Django over Flask here?" is much harder
 
 ## Tech stack
 Django · React + Vite · PostgreSQL · Groq API · Resend · Cloudinary · Whitenoise · Render
-
-## Challenges and what I learned
-<!-- Add 2-3 honest points in your own words. Examples to consider:
-- How you stopped candidates from gaming the AI questions
-- How you structured attempt history so retakes stay auditable
-- Handling slow/unreliable networks for timed assessments in Nigeria -->
-
-## Numbers
-<!-- Only add real figures: registered candidates, completed assessments, companies. If you have none yet, delete this section. -->
-
-*Candidate names and scores in screenshots are fictional demo data.*
-
 ---
 [Portfolio case study](https://danieliyendo.netlify.app/portfolio-vettern) · [All my work](https://github.com/iyendodaniel) · iyendodaniel4@gmail.com
